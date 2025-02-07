@@ -1,2 +1,1 @@
-# react.js
-About React.JS
+# react
